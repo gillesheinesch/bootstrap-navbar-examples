@@ -8,9 +8,17 @@ body {
   background-color: #001F3F;
 }
 
+.nav-item {
+  margin-left: 4%;
+  margin-right: 4%;
+}
+
 .nav-item.active {
   border: 2px solid white;
-  border-radius: 50px;
+  background-color: #001F3F;
+}
+
+.nav-item:hover {
   background-color: #001F3F;
 }
 
