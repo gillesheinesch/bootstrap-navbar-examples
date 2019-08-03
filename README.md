@@ -15,11 +15,15 @@ This repository is meant to showcase examples of navigation bars using Bootstrap
 
 ![Example 1 Preview](https://i.imgur.com/kq6YERc.gif)
 
-[Live Example](https://gitbook.com/dmewm)
+* [Live Example](https://monkeyyy11.github.io/bootstrap-navbar-examples/example1/index.html)
+* [Source Code](https://github.com/Monkeyyy11/bootstrap-navbar-examples/tree/master/example1)
 
 ### Example 2
 
-dew
+![Example 1 Preview](https://i.imgur.com/xEzAejO.gifv)
+
+* [Live Example](https://monkeyyy11.github.io/bootstrap-navbar-examples/example2/index.html)
+* [Source Code](https://github.com/Monkeyyy11/bootstrap-navbar-examples/tree/master/example2)
 
 ## Contributing
 
