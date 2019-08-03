@@ -13,7 +13,7 @@ This repository is meant to showcase examples of navigation bars using Bootstrap
 
 ### Example 1
 
-![Example 1 Preview](google.com)
+![Example 1 Preview](https://i.imgur.com/kq6YERc.gif)
 
 [Live Example](https://gitbook.com/dmewm)
 
